@@ -13,5 +13,8 @@
     },
     'gmmk/pro': {
         target: 'gmmk/pro/rev1/ansi'
+    },
+    'keychron/q0': {
+        target: 'keychron/q0/rev_0130'
     }
 }
